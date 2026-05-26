@@ -35,7 +35,7 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 <a href="https://httpd.apache.org" title="Apache"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="37"/></a>
 <a href="https://www.nginx.com" title="Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="37"/></a>
 <a href="https://git-scm.com" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="37"/></a>
-<a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/></a>
+<a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="37"/></a>
 <a href="https://prometheus.io" title="Prometheus"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="37"/></a>
 <a href="https://grafana.com" title="Grafana"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="37"/></a>
 <a href="https://helm.sh" title="Helm"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="37"/></a>
