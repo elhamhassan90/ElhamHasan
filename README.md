@@ -39,11 +39,11 @@ I’m looking for an opportunity where I can apply and grow my DevOps skills whi
 <a href="https://prometheus.io" title="Prometheus"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="37"/></a>
 <a href="https://grafana.com" title="Grafana"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="37"/></a>
 <a href="https://helm.sh" title="Helm"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="37"/></a>
-<a href="https://www.mysql.com" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="37"/></a>
-<a href="https://www.ansible.com" title="Ansible"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="37"/></a>
-<a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services" title="Windows Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="37"/></a>
-<a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexchange.svg" width="37"/></a>
-<a href="https://www.microsoft.com/en-us/windows-server/active-directory" title="Active Directory"><img src="https://img.icons8.com/color/48/active-directory.png" width="37"/></a>
+<a href="https://www.mysql.com" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/></a>
+<a href="https://www.ansible.com" title="Ansible"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="36"/></a>
+<a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services" title="Windows Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36"/></a>
+<a href="https://www.microsoft.com/en/microsoft-365/exchange/email" title="Exchange Server"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexchange.svg" width="36"/></a>
+<a href="https://www.microsoft.com/en-us/windows-server/active-directory" title="Active Directory"><img src="https://img.icons8.com/color/48/active-directory.png" width="36"/></a>
 </p>
 
 ## 📂 Pinned Projects
