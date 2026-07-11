@@ -61,6 +61,19 @@ An enterprise-level monitoring solution using **Prometheus** and **Grafana**, fu
 
 ---
 
+### 🔐 [Enterprise PKI Infrastructure with Microsoft AD CS & IIS HTTPS](https://github.com/elhamhassan90/Enterprise-PKI-Infrastructure)
+
+Designed and implemented a complete **Enterprise Public Key Infrastructure (PKI)** using **Microsoft Active Directory Certificate Services (AD CS)** to secure internal services with SSL/TLS certificates:
+
+- **Built a two-tier PKI hierarchy** consisting of an Offline Root CA and an Enterprise Subordinate (Issuing) CA
+- **Configured Certificate Revocation List (CRL)** and **Authority Information Access (AIA)** distribution points
+- **Created and published custom Web Server Certificate Templates**
+- **Issued SSL/TLS certificates** using both **Manual Certificate Enrollment** and **Active Directory Domain Certificate Enrollment**
+- **Secured IIS web servers with HTTPS** and configured SSL bindings
+- **Compared manual and automatic certificate enrollment workflows** commonly used in enterprise environments
+
+---
+
 ### 🌐 [Apache Web Server](https://github.com/elhamhassan90/Apache-Web-Server)
 Automated Apache Web Server setup using **Ansible** with:
 - Multiple Virtual Hosts  
@@ -71,16 +84,6 @@ Automated Apache Web Server setup using **Ansible** with:
 
 ---
 
-### 🖥️ [Windows Server Administration (MCSA)](https://github.com/elhamhassan90/Windows-Server-Administration)
-Project based on **MCSA concepts**, including:
-- Active Directory Domain Services (AD DS)  
-- DNS & DHCP setup  
-- Group Policy Objects (GPOs)  
-- Organizational Units and Permissions  
-- Backup and security policies
-
----
-
 ### ☁️ [Terraform Final Project](https://github.com/elhamhassan90/terraform-final-project)
 Provisioned full infrastructure on **AWS using Terraform**:
 - VPC with subnets, IGW, NAT Gateway  
@@ -88,6 +91,16 @@ Provisioned full infrastructure on **AWS using Terraform**:
 - Load Balancers (public/private)  
 - Remote and local provisioners  
 - S3 backend for state management
+
+---
+
+### 🖥️ [Windows Server Administration (MCSA)](https://github.com/elhamhassan90/Windows-Server-Administration)
+Project based on **MCSA concepts**, including:
+- Active Directory Domain Services (AD DS)  
+- DNS & DHCP setup  
+- Group Policy Objects (GPOs)  
+- Organizational Units and Permissions  
+- Backup and security policies
 
 ---
 
